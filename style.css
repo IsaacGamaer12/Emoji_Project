@@ -1,0 +1,18 @@
+h3{
+    color: rgb(152, 64, 235);
+    font-size: 85px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+body{
+    background: linear-gradient(rgb(0, 102, 255), rgb(7, 255, 197), rgb(197, 88, 255));
+}
+
+p{
+    background-color: white;
+}
+
+#camera,#result{
+    border: solid 3px purple
+}
+
